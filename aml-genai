@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Generative AI for AML Compliance</title>
+  <link rel="stylesheet" href="../style.css" />
+</head>
+<body>
+  <section>
+    <a href="../index.html">← Back to Portfolio</a>
+    <h1>Generative AI for AML Compliance</h1>
+    <p><strong>Organization:</strong> Agricultural Bank of China</p>
+    <p><strong>Tools Used:</strong> Python, R, Llama 3.3, RAG, MySQL</p>
+    <p>
+      Designed and implemented a Generative AI model to automate the filing of Suspicious Activity Reports (SAR) in alignment with Anti-Money Laundering (AML) regulations. The project involved integrating financial data pipelines using MySQL and Jupyter, optimizing RAG model accuracy, and reducing hallucination risks by fine-tuning LLMs.
+    </p>
+  </section>
+</body>
+</html>
